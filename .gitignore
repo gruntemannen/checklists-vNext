@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+.cdk.staging/
+cdk.out/
+*.js.map
+*.d.ts.map
+.env
+.env.local
+*.log
+.DS_Store
+coverage/
+.vite/
+cdk-outputs.json
+cdk.context.json

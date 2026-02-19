@@ -1,0 +1,20 @@
+{
+  "checklists-vnext-storage": {
+    "AttachmentsBucketName": "checklists-vnext-attachments-XXXXXXXXXXXX-eu-north-1"
+  },
+  "checklists-vnext-database": {
+    "TableName": "checklists-vnext-main",
+    "TableArn": "arn:aws:dynamodb:eu-north-1:XXXXXXXXXXXX:table/checklists-vnext-main"
+  },
+  "checklists-vnext-auth": {
+    "UserPoolClientId": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "UserPoolId": "eu-north-1_XXXXXXXXX"
+  },
+  "checklists-vnext-frontend": {
+    "DistributionUrl": "https://xxxxxxxxxxxxxx.cloudfront.net",
+    "DistributionId": "XXXXXXXXXXXXXX"
+  },
+  "checklists-vnext-api": {
+    "ApiUrl": "https://xxxxxxxxxx.execute-api.eu-north-1.amazonaws.com/api/"
+  }
+}
